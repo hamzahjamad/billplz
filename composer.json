@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "guzzlehttp/guzzle": "^7.0.1"
+        "jomweb/ringgit": "^2.3.1"
     },
     "require-dev": {
         "mockery/mockery": "^1.3.1",
